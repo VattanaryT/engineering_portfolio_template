@@ -1,4 +1,4 @@
-# engineering_portfolio_template# Engineering Portfolio Template
+# Engineering Portfolio Template
 
 This repo is a clean, minimalist portfolio site built with nothing more than HTML, CSS, and a touch of vanilla JS. It’s designed so that any engineer can fork the repo, drop in their own content, and publish straight to GitHub Pages—no build tools required.
 
